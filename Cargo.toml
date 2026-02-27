@@ -1,0 +1,7 @@
+[package]
+name = "shred-parser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wincode = { version = "0.1.1", features = ["derive"] }
